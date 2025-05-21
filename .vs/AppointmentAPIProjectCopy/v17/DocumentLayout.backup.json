@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\controllers\\appointmentbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\controllers\\appointmentbookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\models\\appointmentbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\models\\appointmentbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\models\\appoientments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\models\\appoientments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\dto\\appointmentbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\dto\\appointmentbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|e:\\appointmentprojectcopy\\appointmentapiprojectcopy\\appointmentapi\u0027s\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C07A1AC-8443-4F58-B989-45DB4083248F}|AppointmentAPI\u0027s\\AppointmentAPIProjectCopy.csproj|solutionrelative:appointmentapi\u0027s\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\appsettings.json",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\appsettings.json",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T04:31:04.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentBooking.cs",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Models\\AppointmentBooking.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\Models\\AppointmentBooking.cs",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Models\\AppointmentBooking.cs",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\Models\\AppointmentBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:23:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appoientments.cs",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Models\\Appoientments.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\Models\\Appoientments.cs",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Models\\Appoientments.cs",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\Models\\Appoientments.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA8wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:20:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentBookingRequest.cs",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\DTO\\AppointmentBookingRequest.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\DTO\\AppointmentBookingRequest.cs",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\DTO\\AppointmentBookingRequest.cs",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\DTO\\AppointmentBookingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:59:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentBookingsController.cs",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Controllers\\AppointmentBookingsController.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\Controllers\\AppointmentBookingsController.cs",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Controllers\\AppointmentBookingsController.cs",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\Controllers\\AppointmentBookingsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAJIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:27:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\u0027s\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "E:\\AppointmentProjectCopy\\AppointmentAPIProjectCopy\\AppointmentAPI\u0027s\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentAPI\u0027s\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:26:55.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
